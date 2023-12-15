@@ -1,3 +1,35 @@
 body {
+    background-color: blue;
+  text-align: center;
+}
+  h1{
+   
+     font-family: Impact;
+     font-size: 350%;
+     letter-spacing: 3px;
+}
 
+p{
+  font-family: impact;
+  font-size: 200%;
+
+}
+ul{
+  position: fixed;
+  
+}
+li{
+  float: left;
+  list-style-type: none;
+  
+}
+li a{
+  padding: 10px;
+  color: black;
+  font-family: impact;
+  
+}
+li a:hover{
+  background-color: grey;
+  color: white;
 }
