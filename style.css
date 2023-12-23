@@ -1,11 +1,11 @@
 body {
-    background-color: blue;
+    background-color: #2C4B4E;
   text-align: center;
 }
   h1{
    
      font-family: Impact;
-     font-size: 350%;
+     font-size: 340%;
      letter-spacing: 3px;
 }
 
@@ -15,7 +15,12 @@ p{
 
 }
 ul{
+  margin-left: 10px;
   position: fixed;
+  font-size: 130%;
+  border-style: double;
+  border-width: 9px;
+  
   
 }
 li{
@@ -32,4 +37,8 @@ li a{
 li a:hover{
   background-color: grey;
   color: white;
+}
+h2{
+  font-family: impact;
+  letter-spacing: 1px;
 }
